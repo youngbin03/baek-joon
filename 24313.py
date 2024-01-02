@@ -1,4 +1,4 @@
-백준 24313
+#백준 24313
 
 a1 , a0 = map(int,input().split())
 c = int(input())
